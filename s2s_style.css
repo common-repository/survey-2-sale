@@ -1,0 +1,46 @@
+.s2s_header {
+	margin-bottom:0px;
+}
+
+.s2s_list_header {
+	margin-top:45px;
+}
+
+.s2s_inclusion_option {
+	float: left;
+	padding-right: 75px;
+}
+
+.s2s_list_textarea {
+	width:500px; 
+	height: 175px;
+}
+
+.s2s_submit_btn {
+	width:500px;
+	text-align:center;
+}
+
+.s2s_enable_container {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-top: 15px;
+	margin-left: 2px;
+	font-size: 12px;
+}
+
+#s2s_btn.button-primary.s2s_submit_btn.s2s_disable {
+	width:300px;
+	text-align:center;
+	background-color: #cccccc;
+	border-color: #aaaaaa;
+	box-shadow: none;
+}
+
+.s2s_enable_btn {
+	padding-bottom:10px;
+}
+
+.s2s_enable_msg {
+	font-size: 10px;
+}
